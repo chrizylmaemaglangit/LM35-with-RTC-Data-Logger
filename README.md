@@ -16,3 +16,4 @@ RTC module (DS 1302) - keeps tracks the time of the system
 (9V battery, if required)
 
 The illustration below shows the connections between the parts:
+![LM35 DATA LOGGER](https://github.com/chrizylmaemaglangit/LM35-with-RTC-Data-Logger/assets/122691747/628ce522-044d-4767-91cf-2a7441c8df44)
