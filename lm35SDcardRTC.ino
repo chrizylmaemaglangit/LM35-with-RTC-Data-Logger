@@ -17,7 +17,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);  // I2C address 0x3F, 16 column and 2 rows
 
 File myFile; //--> File Initialization
 const int chipSelect = 4; //--> chipSelect (CS) Pin
-const int sensor_pin = A0;
+const int sensor_pin = A1;
 float temp;  
 float output;
 
