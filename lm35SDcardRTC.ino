@@ -12,7 +12,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);  // I2C address 0x3F, 16 column and 2 rows
 
 #define ADC_VREF_mV    5000.0 // in millivolt
 #define ADC_RESOLUTION 1024.0
-#define I2C_ADDR 0x27 m  m   m         
+#define I2C_ADDR 0x27          
 
 
 File myFile; //--> File Initialization
